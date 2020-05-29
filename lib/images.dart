@@ -1,0 +1,1 @@
+const String loki = "assets/images/loki.jpg";
